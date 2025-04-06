@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cyberpunk Website</title>
+  <!-- Include a futuristic font from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Orbitron&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 class="glitch" data-text="CYBERPUNK">CYBERPUNK</h1>
+  </header>
+  <main>
+    <section>
+      <p>Welcome to my cyberpunk website. Explore the futuristic design and vibrant neon effects!</p>
+    </section>
+  </main>
+</body>
+</html>
 

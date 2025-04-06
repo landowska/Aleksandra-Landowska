@@ -13,12 +13,22 @@
     <h1 class="glitch" data-text="CYBERPUNK">CYBERPUNK</h1>
   </header>
   <main>
-    <section>
-      <p>I am a research fellow at the University of Nottingham</p>
-    </section>
     <section id="bio">
       <h2>About Me</h2>
-      <p>Hi, I'm Aleksandra Landowska. I love blending technology and art, and this site is a glimpse into my passion for futuristic design and cyberpunk aesthetics.</p>
+      <p>
+        Hi, I'm Aleksandra Landowska. I am a research fellow in Human Computer Interaction at the University of Nottingham.
+      </p>
+    </section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li><a href="#">Embodied AI in Complex Settings</a></li>
+        <li><a href="#">FastPi</a></li>
+        <li><a href="#">Brain+</a></li>
+        <li><a href="#">DOMINOS</a></li>
+        <li><a href="#">Brain+</a></li>
+        <li><a href="#">PhD Project</a></li>
+      </ul>
     </section>
   </main>
 </body>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cyberpunk Website</title>
+  <title>Aleksandra Landowska Website</title>
   <!-- Include a futuristic font from Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Orbitron&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
@@ -16,7 +16,10 @@
     <section>
       <p>Welcome to my cyberpunk website. Explore the futuristic design and vibrant neon effects!</p>
     </section>
+    <section id="bio">
+      <h2>About Me</h2>
+      <p>Hi, I'm Aleksandra Landowska. I love blending technology and art, and this site is a glimpse into my passion for futuristic design and cyberpunk aesthetics.</p>
+    </section>
   </main>
 </body>
 </html>
-

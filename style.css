@@ -43,6 +43,36 @@ h2 {
   letter-spacing: 2px;
 }
 
+/* Profile section with photo */
+.profile-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-image img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  border: 3px solid #0ff;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);
+  transition: all 0.3s ease;
+}
+
+.profile-image img:hover {
+  border-color: #f0f;
+  box-shadow: 0 0 20px rgba(255, 0, 255, 0.6);
+}
+
+.profile-text {
+  flex: 1;
+}
+
 /* List styling */
 ul {
   list-style-type: none;
@@ -96,5 +126,15 @@ a:hover {
   
   section {
     padding: 15px;
+  }
+  
+  .profile-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .profile-image img {
+    width: 150px;
+    height: 150px;
   }
 }
